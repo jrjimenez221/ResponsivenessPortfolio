@@ -1,0 +1,50 @@
+body{
+    background-color: gray;
+    
+}
+h3{
+    font-size: 30px;
+    margin-top: 1%;
+}
+nav{
+    color: gold;
+    background-color: black;
+}
+p{
+    font-size: 20px;
+}
+footer{
+    height: 5vh;
+    width: 100vw;
+    border-top: solid gold 5px;
+    background-color: black;
+    margin-top: 10vh;
+    
+}
+#portfoliobttn{
+    background-color:  rgb(21, 116, 111);
+}
+#contactbttn{
+    background-color:  rgb(161, 63, 46);
+}
+#homebttn{
+    background-color: rgb(48, 92, 128);
+}
+#contactcontain{
+    background-color: darkgray;
+}
+#iconbttn{
+    background-color: white;
+}
+.navbar-brand{
+    color: gold;
+}
+.mt-0{
+    margin-top: 5vh !important;
+}
+.thumbnail{
+    border: solid gold 1px;
+    border-radius: 3%;
+    padding: 1vh;
+    margin: 1vh;
+}
